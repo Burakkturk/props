@@ -21,4 +21,4 @@ const Person = ({name, img, color}) => {
   )
 }
 
-export default Person
+export default Cat
