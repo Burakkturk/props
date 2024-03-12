@@ -1,6 +1,6 @@
 import Name from "./Name"
 
-const Person = ({name, img, color}) => {
+const Cat = ({name, img, color}) => {
    
 
     // const {name,img,color} = props
